@@ -1,19 +1,19 @@
-Location,Latitude,Longitude,Payload
-Camp Randall,43.07022673,-89.4126871,10
-Sam's Apartment,43.07546162,-89.39340746,2.625
-3006 Sunrise Ct,43.10865633,-89.47392832,5
-Kohl Center,43.06970873,-89.39690723,4.6875
-Computer Sciences Building,43.07128608,-89.40656057,6.17
-Noland Hall,43.07167752,-89.40448922,1.5
-Lake Mendota,43.10781113,-89.41951492,4
-The Kollege Klub,43.07595145,-89.397279,11.25
-Tenney Park,43.09218591,-89.36712014,2.2
-The Bakke,43.07685185,-89.42015905,3.45
-The Nick,43.07088058,-89.39903946,5.2
-Governer's Mansion,43.1130962,-89.37058829,0.7
-Wisconsin State Capital,43.07658292,-89.38481858,20
-Henry Vilas Zoo,43.06079059,-89.41004575,3
-The Edgewater,43.07947424,-89.38994379,3.4
-Nandini's Apartment,43.0698669,-89.39406513,2.625
-Sellery Charging Station,43.07518159,-89.40050251,
-DWI 4 Charging Station,43.10326284,-89.32359822,
+Location,Latitude,Longitude,Payload,Demand
+Camp Randall,43.07022673,-89.4126871,10,10 Footballs
+Sam's Apartment,43.07546162,-89.39340746,2.625,History of Optimization book
+3006 Sunrise Ct,43.10865633,-89.47392832,5,Bird Food
+Kohl Center,43.06970873,-89.39690723,4.6875,5 New Basketball Jerseys
+Computer Sciences Building,43.07128608,-89.40656057,6.17,10 NVIDIA Jetsons
+Noland Hall,43.07167752,-89.40448922,1.5,4 cups of Pepper Seeds
+Lake Mendota,43.10781113,-89.41951492,4,Fishing Rod
+The Kollege Klub,43.07595145,-89.397279,11.25,3 Bottles of NA Vodka
+Tenney Park,43.09218591,-89.36712014,2.2,Drinking Fountain Filter
+The Bakke,43.07685185,-89.42015905,3.45,5 BUCKS Pre Workout
+The Nick,43.07088058,-89.39903946,5.2,5 Basketballs
+Governer's Mansion,43.1130962,-89.37058829,0.7,Egg McMuffin / Pickleball Paddle
+Wisconsin State Capital,43.07658292,-89.38481858,20,Paper for Broucheres
+Henry Vilas Zoo,43.06079059,-89.41004575,3,6 Animal Slippers
+The Edgewater,43.07947424,-89.38994379,3.4,7 Christmas Ornaments
+Nandini's Apartment,43.0698669,-89.39406513,2.625,History of Optimization book
+Sellery Charging Station,43.07518159,-89.40050251,,
+DWI 4 Charging Station,43.10326284,-89.32359822,,
