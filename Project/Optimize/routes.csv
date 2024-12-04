@@ -1,0 +1,98 @@
+Route,Payload (lbs),Total Distance (km),Drone Type
+"[('Camp Randall', 5)]",5.0,9.246603228705872,Both
+"[(""Sam's Apartment"", 1)]",2.625,7.034104281833307,Both
+"[('3006 Sunrise Ct', 1)]",5.0,19.247533512024148,MK30
+"[('Kohl Center', 5)]",4.6875,7.700871347640713,Both
+"[('Computer Sciences Building', 8)]",4.936,8.273510378493333,Both
+"[('Noland Hall', 4)]",1.5,7.955440673373516,Both
+"[('Lake Mendota', 1)]",4.0,11.746204502193951,Both
+"[('The Kollege Klub', 1)]",3.75,6.985297386253528,Both
+"[('Tenney Park', 1)]",2.2,7.047510302132951,Both
+"[('The Bakke', 5)]",3.45,9.98027866489834,Both
+"[('The Nick', 4)]",4.16,7.598977196951356,Both
+"[(""Governer's Mansion"", 1)]",0.7,8.833779554896996,Both
+"[('Wisconsin State Capital', 1)]",5.0,7.072657944366661,Both
+"[('Henry Vilas Zoo', 6)]",3.0,10.2394885494592,Both
+"[('The Edgewater', 7)]",3.4,6.983237698658669,Both
+"[(""Nandini's Apartment"", 1)]",2.625,7.6109292903243855,Both
+"[(""Sam's Apartment"", 1), ('Kohl Center', 2)]",4.5,7.831973851211781,Both
+"[(""Sam's Apartment"", 1), ('Computer Sciences Building', 3)]",4.476,8.277484697423795,Both
+"[(""Sam's Apartment"", 1), ('Noland Hall', 4)]",4.125,7.957120322685988,Both
+"[(""Sam's Apartment"", 1), ('Tenney Park', 1)]",4.825,12.593397327138835,Both
+"[(""Sam's Apartment"", 1), ('The Bakke', 3)]",4.695,10.242510513348122,Both
+"[(""Sam's Apartment"", 1), ('The Nick', 2)]",4.705,7.634366709917787,Both
+"[(""Sam's Apartment"", 1), (""Governer's Mansion"", 1)]",3.325,15.8990126533648,MK30
+"[(""Sam's Apartment"", 1), ('Henry Vilas Zoo', 4)]",4.625,10.353525574640887,Both
+"[(""Sam's Apartment"", 1), ('The Edgewater', 4)]",4.567857142857143,7.965738997719287,Both
+"[('Noland Hall', 4), ('Tenney Park', 1)]",3.7,14.550304266602394,Both
+"[('Noland Hall', 4), ('The Bakke', 5)]",4.95,10.452892641461832,Both
+"[('Noland Hall', 4), ('The Nick', 3)]",4.62,8.393140920166308,Both
+"[('Noland Hall', 4), (""Governer's Mansion"", 1)]",2.2,17.679860211128002,MK30
+"[('Noland Hall', 4), ('Henry Vilas Zoo', 6)]",4.5,10.518948530998223,Both
+"[('Noland Hall', 4), ('The Edgewater', 7)]",4.9,9.895619553788993,Both
+"[('Noland Hall', 4), (""Nandini's Apartment"", 1)]",4.125,9.108342329566508,Both
+"[('Lake Mendota', 1), ('The Bakke', 1)]",4.69,12.853380103891554,Both
+"[('Lake Mendota', 1), (""Governer's Mansion"", 1)]",4.7,16.683746910096367,MK30
+"[('Lake Mendota', 1), ('Henry Vilas Zoo', 2)]",5.0,14.865957136863944,Both
+"[('Lake Mendota', 1), ('The Edgewater', 2)]",4.9714285714285715,12.746227030495987,Both
+"[('The Kollege Klub', 1), ('The Bakke', 1)]",4.44,10.178142711640676,Both
+"[('The Kollege Klub', 1), ('The Nick', 1)]",4.79,7.784240641613326,Both
+"[('The Kollege Klub', 1), (""Governer's Mansion"", 1)]",4.45,16.239778239982154,MK30
+"[('The Kollege Klub', 1), ('Henry Vilas Zoo', 2)]",4.75,10.46710781553478,Both
+"[('The Kollege Klub', 1), ('The Edgewater', 2)]",4.7214285714285715,8.404287692892742,Both
+"[('Tenney Park', 1), ('The Bakke', 4)]",4.960000000000001,9.982014784202919,Both
+"[('Tenney Park', 1), ('The Nick', 2)]",4.28,7.746741745583004,Both
+"[('Tenney Park', 1), (""Governer's Mansion"", 1)]",2.9000000000000004,10.94982979002106,Both
+"[('Tenney Park', 1), ('Henry Vilas Zoo', 5)]",4.7,10.454120594302578,Both
+"[('Tenney Park', 1), ('The Edgewater', 5)]",4.628571428571428,7.054657442207406,Both
+"[('Tenney Park', 1), (""Nandini's Apartment"", 1)]",4.825,7.840128336719463,Both
+"[('The Bakke', 5), ('The Nick', 1)]",4.49,10.705299108380924,Both
+"[('The Bakke', 5), (""Governer's Mansion"", 1)]",4.15,18.934427335881733,MK30
+"[('The Bakke', 5), ('Henry Vilas Zoo', 3)]",4.95,12.11688489648049,Both
+"[('The Bakke', 5), ('The Edgewater', 3)]",4.9071428571428575,11.825767734662074,Both
+"[('The Nick', 4), (""Governer's Mansion"", 1)]",4.86,17.203519791166688,MK30
+"[('The Nick', 4), ('Henry Vilas Zoo', 1)]",4.66,10.31893618845663,Both
+"[('The Nick', 4), ('The Edgewater', 1)]",4.645714285714286,9.295384088461791,Both
+"[(""Governer's Mansion"", 1), ('Henry Vilas Zoo', 6)]",3.7,12.386643705024294,Both
+"[(""Governer's Mansion"", 1), ('The Edgewater', 7)]",4.1,9.005183165705027,Both
+"[(""Governer's Mansion"", 1), (""Nandini's Apartment"", 1)]",3.325,9.928445927065509,Both
+"[('Henry Vilas Zoo', 6), ('The Edgewater', 4)]",4.942857142857143,12.085226430184658,Both
+"[(""Sam's Apartment"", 1), ('Kohl Center', 2), ('Noland Hall', 1)]",4.875,8.317165432172276,Both
+"[(""Sam's Apartment"", 1), ('Kohl Center', 2), ('Henry Vilas Zoo', 1)]",5.0,10.391944569989283,Both
+"[(""Sam's Apartment"", 1), ('Kohl Center', 2), ('The Edgewater', 1)]",4.985714285714286,9.362672913359873,Both
+"[(""Sam's Apartment"", 1), ('Computer Sciences Building', 3), ('Noland Hall', 1)]",4.851,8.30233697789522,Both
+"[(""Sam's Apartment"", 1), ('Computer Sciences Building', 3), ('Henry Vilas Zoo', 1)]",4.976,10.600818897346835,Both
+"[(""Sam's Apartment"", 1), ('Computer Sciences Building', 3), ('The Edgewater', 1)]",4.961714285714286,10.231407553467015,Both
+"[(""Sam's Apartment"", 1), ('Noland Hall', 4), ('The Bakke', 1)]",4.815,10.454572290774303,Both
+"[(""Sam's Apartment"", 1), ('Noland Hall', 4), (""Governer's Mansion"", 1)]",4.825,17.68153986044047,MK30
+"[(""Sam's Apartment"", 1), ('Noland Hall', 4), ('Henry Vilas Zoo', 1)]",4.625,10.520628180310695,Both
+"[(""Sam's Apartment"", 1), ('Noland Hall', 4), ('The Edgewater', 1)]",4.610714285714286,9.897299203101465,Both
+"[(""Sam's Apartment"", 1), (""Governer's Mansion"", 1), ('Henry Vilas Zoo', 3)]",4.825,19.451876803492098,MK30
+"[(""Sam's Apartment"", 1), (""Governer's Mansion"", 1), ('The Edgewater', 3)]",4.7821428571428575,16.07041626417283,MK30
+"[('Noland Hall', 4), ('Tenney Park', 1), ('The Bakke', 1)]",4.390000000000001,17.484808748672364,MK30
+"[('Noland Hall', 4), ('Tenney Park', 1), ('The Nick', 1)]",4.74,15.249535710052447,Both
+"[('Noland Hall', 4), ('Tenney Park', 1), (""Governer's Mansion"", 1)]",4.4,18.452623754490503,MK30
+"[('Noland Hall', 4), ('Tenney Park', 1), ('Henry Vilas Zoo', 2)]",4.7,17.95691455877202,MK30
+"[('Noland Hall', 4), ('Tenney Park', 1), ('The Edgewater', 2)]",4.671428571428572,14.55745140667685,Both
+"[('Noland Hall', 4), (""Governer's Mansion"", 1), ('Henry Vilas Zoo', 5)]",4.7,21.2327243612553,MK30
+"[('Noland Hall', 4), (""Governer's Mansion"", 1), ('The Edgewater', 5)]",4.628571428571428,17.851263821936033,MK30
+"[('Noland Hall', 4), (""Governer's Mansion"", 1), (""Nandini's Apartment"", 1)]",4.825,18.774526583296513,MK30
+"[('Noland Hall', 4), ('Henry Vilas Zoo', 6), ('The Edgewater', 1)]",4.985714285714286,12.364686411723682,Both
+"[('The Kollege Klub', 1), ('The Bakke', 1), ('Henry Vilas Zoo', 1)]",4.94,12.314748943222828,Both
+"[('The Kollege Klub', 1), ('The Bakke', 1), ('The Edgewater', 1)]",4.925714285714286,12.023631781404411,Both
+"[('The Kollege Klub', 1), (""Governer's Mansion"", 1), ('Henry Vilas Zoo', 1)]",4.95,19.792642390109457,MK30
+"[('The Kollege Klub', 1), (""Governer's Mansion"", 1), ('The Edgewater', 1)]",4.935714285714286,16.411181850790186,MK30
+"[('Tenney Park', 1), ('The Nick', 2), (""Governer's Mansion"", 1)]",4.98,17.351284339798337,MK30
+"[('Tenney Park', 1), ('The Nick', 2), ('Henry Vilas Zoo', 1)]",4.78,10.466700737088278,Both
+"[('Tenney Park', 1), ('The Nick', 2), ('The Edgewater', 1)]",4.765714285714286,9.44314863709344,Both
+"[('Tenney Park', 1), (""Governer's Mansion"", 1), ('Henry Vilas Zoo', 4)]",4.9,14.502693940148362,Both
+"[('Tenney Park', 1), (""Governer's Mansion"", 1), ('The Edgewater', 4)]",4.842857142857143,11.121233400829093,Both
+"[('The Bakke', 5), ('The Nick', 1), ('Henry Vilas Zoo', 1)]",4.99,13.425258099886198,Both
+"[('The Bakke', 5), ('The Nick', 1), ('The Edgewater', 1)]",4.975714285714286,12.40170599989136,Both
+"[('The Bakke', 5), (""Governer's Mansion"", 1), ('Henry Vilas Zoo', 1)]",4.65,22.487291486009035,MK30
+"[('The Bakke', 5), (""Governer's Mansion"", 1), ('The Edgewater', 1)]",4.635714285714286,19.105830946689764,MK30
+"[(""Governer's Mansion"", 1), ('Henry Vilas Zoo', 6), ('The Edgewater', 2)]",4.671428571428572,14.232381585749753,Both
+"[('Noland Hall', 4), ('Tenney Park', 1), ('The Bakke', 1), ('Henry Vilas Zoo', 1)]",4.890000000000001,19.621414980254514,MK30
+"[('Noland Hall', 4), ('Tenney Park', 1), ('The Bakke', 1), ('The Edgewater', 1)]",4.875714285714286,19.330297818436097,MK30
+"[('Noland Hall', 4), ('Tenney Park', 1), (""Governer's Mansion"", 1), ('Henry Vilas Zoo', 1)]",4.9,22.0054879046178,MK30
+"[('Noland Hall', 4), ('Tenney Park', 1), (""Governer's Mansion"", 1), ('The Edgewater', 1)]",4.885714285714286,18.624027365298534,MK30
