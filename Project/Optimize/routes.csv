@@ -1,38 +1,38 @@
 Route,Payload (lbs),Total Distance (km),Drone Type
-"('Camp Randall',)",5.0,16.22781137675112,MK30
-"(""Sam's Apartment"",)",2.625,12.91381028741393,Both
-"('3006 Sunrise Ct',)",5.0,24.437756813561514,MK30
-"('Kohl Center',)",4.6875,14.051668807567221,Both
-"('Computer Sciences Building',)",4.936,15.23583105910422,Both
-"('Noland Hall',)",1.5,14.897702077010024,Both
-"('Lake Mendota',)",4.0,15.606467396161223,MK30
-"('The Kollege Klub',)",3.75,13.41965547664934,Both
-"('Tenney Park',)",2.2,7.484414896560494,Both
-"('The Bakke',)",3.45,16.746026300210353,MK30
-"('The Nick',)",4.16,14.212331248322405,Both
-"(""Governer's Mansion"",)",0.7,7.9364571529071934,Both
-"('Wisconsin State Capital',)",5.0,11.578554197234572,Both
-"('Henry Vilas Zoo',)",3.0,16.922798409025724,MK30
-"('The Edgewater',)",3.4,12.003564680828859,Both
-"(""Nandini's Apartment"",)",2.625,13.64357307507393,Both
-"(""Sam's Apartment"", 'Noland Hall')",4.125,14.899381726322495,Both
-"(""Sam's Apartment"", 'Tenney Park')",4.825,13.030301921566378,Both
-"(""Sam's Apartment"", ""Governer's Mansion"")",3.325,15.001690251374999,Both
-"('Noland Hall', 'Tenney Park')",3.7,14.987208861029938,Both
-"('Noland Hall', 'The Bakke')",4.95,17.218640276773847,MK30
-"('Noland Hall', ""Governer's Mansion"")",2.2,16.782537809138198,MK30
-"('Noland Hall', 'Henry Vilas Zoo')",4.5,17.202258390564747,MK30
-"('Noland Hall', 'The Edgewater')",4.9,14.915946535959183,Both
-"('Noland Hall', ""Nandini's Apartment"")",4.125,15.140986114316053,Both
-"('Lake Mendota', ""Governer's Mansion"")",4.7,15.786424508106567,MK30
-"('The Kollege Klub', ""Governer's Mansion"")",4.45,15.342455837992354,Both
-"('Tenney Park', ""Governer's Mansion"")",2.9000000000000004,10.052507388031259,Both
-"('Tenney Park', ""Nandini's Apartment"")",4.825,13.872772121469009,Both
-"('The Bakke', ""Governer's Mansion"")",4.15,18.037104933891932,MK30
-"('The Nick', ""Governer's Mansion"")",4.86,16.306197389176887,MK30
-"(""Governer's Mansion"", 'Henry Vilas Zoo')",3.7,19.06995356459082,MK30
-"(""Governer's Mansion"", 'The Edgewater')",4.1,14.025510147875217,Both
-"(""Governer's Mansion"", ""Nandini's Apartment"")",3.325,15.961089711815053,MK30
-"(""Sam's Apartment"", 'Noland Hall', ""Governer's Mansion"")",4.825,16.78421745845067,MK30
-"('Noland Hall', 'Tenney Park', ""Governer's Mansion"")",4.4,17.555301352500702,MK30
-"('Noland Hall', ""Governer's Mansion"", ""Nandini's Apartment"")",4.825,24.80717036804606,MK30
+"('DWI 4', 'Camp Randall', 'DWI 4')",5.0,16.22781137675112,MK30
+"('DWI 4', ""Sam's Apartment"", 'DWI 4')",2.625,12.91381028741393,Both
+"('DWI 4', '3006 Sunrise Ct', 'DWI 4')",5.0,24.437756813561514,MK30
+"('DWI 4', 'Kohl Center', 'DWI 4')",4.6875,14.051668807567221,Both
+"('DWI 4', 'Computer Sciences Building', 'DWI 4')",4.936,15.23583105910422,Both
+"('DWI 4', 'Noland Hall', 'DWI 4')",1.5,14.897702077010024,Both
+"('DWI 4', 'Lake Mendota', 'DWI 4')",4.0,15.606467396161223,MK30
+"('DWI 4', 'The Kollege Klub', 'DWI 4')",3.75,13.41965547664934,Both
+"('DWI 4', 'Tenney Park', 'DWI 4')",2.2,7.484414896560494,Both
+"('DWI 4', 'The Bakke', 'DWI 4')",3.45,16.746026300210353,MK30
+"('DWI 4', 'The Nick', 'DWI 4')",4.16,14.212331248322405,Both
+"('DWI 4', ""Governer's Mansion"", 'DWI 4')",0.7,7.9364571529071934,Both
+"('DWI 4', 'Wisconsin State Capital', 'DWI 4')",5.0,11.578554197234572,Both
+"('DWI 4', 'Henry Vilas Zoo', 'DWI 4')",3.0,16.922798409025724,MK30
+"('DWI 4', 'The Edgewater', 'DWI 4')",3.4,12.003564680828859,Both
+"('DWI 4', ""Nandini's Apartment"", 'DWI 4')",2.625,13.64357307507393,Both
+"('DWI 4', ""Sam's Apartment"", 'Noland Hall', 'DWI 4')",4.125,14.899381726322495,Both
+"('DWI 4', ""Sam's Apartment"", 'Tenney Park', 'DWI 4')",4.825,13.030301921566378,Both
+"('DWI 4', ""Sam's Apartment"", ""Governer's Mansion"", 'DWI 4')",3.325,15.001690251374999,Both
+"('DWI 4', 'Noland Hall', 'Tenney Park', 'DWI 4')",3.7,14.987208861029938,Both
+"('DWI 4', 'Noland Hall', 'The Bakke', 'DWI 4')",4.95,17.218640276773847,MK30
+"('DWI 4', 'Noland Hall', ""Governer's Mansion"", 'DWI 4')",2.2,16.782537809138198,MK30
+"('DWI 4', 'Noland Hall', 'Henry Vilas Zoo', 'DWI 4')",4.5,17.202258390564747,MK30
+"('DWI 4', 'Noland Hall', 'The Edgewater', 'DWI 4')",4.9,14.915946535959183,Both
+"('DWI 4', 'Noland Hall', ""Nandini's Apartment"", 'DWI 4')",4.125,15.140986114316053,Both
+"('DWI 4', 'Lake Mendota', ""Governer's Mansion"", 'DWI 4')",4.7,15.786424508106567,MK30
+"('DWI 4', 'The Kollege Klub', ""Governer's Mansion"", 'DWI 4')",4.45,15.342455837992354,Both
+"('DWI 4', 'Tenney Park', ""Governer's Mansion"", 'DWI 4')",2.9000000000000004,10.052507388031259,Both
+"('DWI 4', 'Tenney Park', ""Nandini's Apartment"", 'DWI 4')",4.825,13.872772121469009,Both
+"('DWI 4', 'The Bakke', ""Governer's Mansion"", 'DWI 4')",4.15,18.037104933891932,MK30
+"('DWI 4', 'The Nick', ""Governer's Mansion"", 'DWI 4')",4.86,16.306197389176887,MK30
+"('DWI 4', ""Governer's Mansion"", 'Henry Vilas Zoo', 'DWI 4')",3.7,19.06995356459082,MK30
+"('DWI 4', ""Governer's Mansion"", 'The Edgewater', 'DWI 4')",4.1,14.025510147875217,Both
+"('DWI 4', ""Governer's Mansion"", ""Nandini's Apartment"", 'DWI 4')",3.325,15.961089711815053,MK30
+"('DWI 4', ""Sam's Apartment"", 'Noland Hall', ""Governer's Mansion"", 'DWI 4')",4.825,16.78421745845067,MK30
+"('DWI 4', 'Noland Hall', 'Tenney Park', ""Governer's Mansion"", 'DWI 4')",4.4,17.555301352500702,MK30
+"('DWI 4', 'Noland Hall', ""Governer's Mansion"", ""Nandini's Apartment"", 'DWI 4')",4.825,24.80717036804606,MK30
