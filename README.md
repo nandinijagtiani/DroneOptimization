@@ -1,5 +1,6 @@
-Objective
-A drone delivery route planner that computes energy-efficient, multi-stop delivery paths based on payload weight, battery constraints, and recharge locations. Supports MK27 and MK30 drone models and visualizes routes on a city map of Madison, WI.
+### Objective
+- A drone delivery route planner that computes energy-efficient, multi-stop delivery paths based on payload weight, battery constraints, and recharge locations. 
+- Supports MK27 and MK30 drone models and visualizes routes on a city map of Madison, WI.
 
 ### Features
 - Optimizes drone routes across 17+ delivery locations using payload and battery data
